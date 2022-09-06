@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Artificial Intelligent and Data Science.
 - 💞️ I’m looking to collaborate on new actively expertise in leraning
 - 📫 How to reach me  - linkedin --> https.//www.linkedin.com/in/shuchi-shukla-03B8215
--                       instagram--> @shukla.o1shuchi
 -    I beleive in learning and execute myself with changing technology.
 
 <!---
