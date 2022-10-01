@@ -9,9 +9,6 @@
 shuchi111/shuchi111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 
   <h1>
@@ -19,6 +16,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="300"
+<h3> I'm Shuchi. currently pursuing B.Tech in AI & DS .
+step towards learning -></h3>
 <div>
 <h2> Ready? </h2>
   <img src="https://www.forbesindia.com/media/images/2019/Dec/img_124879_1321536002.jpg"width="500px"
