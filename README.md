@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @shuchi111
+-  hackerrank 4* in python 
 - 👀 I’m interested in explore myself in technology.
 - 🌱 I’m currently learning Artificial Intelligent and Data Science.
 - 💞️ I’m looking to collaborate on new actively expertise in learning
