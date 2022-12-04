@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shuchi111
 -  🧑‍💻 Hackerrank 4* in python 
-- 👀 I’m interested in explore myself in technology.
-- 🌱 I’m currently learning Artificial Intelligent and Data Science.
-- 💞️ I’m looking to collaborate on new actively expertise in learning
+- 👀 I love Mathematics and ML.
+- 🌱 I’m currently learning Machine Learning.
+- 💞️ I’m looking to collaborate Tech Hub to expertise in my domain.
 - 📫 How to reach me  - linkedin --> www.linkedin.com/in/shuchi-shukla-03B8215
 -    I believe in learning and execute myself with changing technology.
 
@@ -39,13 +39,27 @@ step towards learning -></h3>
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kumbhaj/)
 - ---
 
+
+<div class="row"> 
+<div class="row ">
+<h2> Hacktoberfest 2022 </h2>
+<img src ="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width="150px" title="Holopin"
+</div>
+<span>
+<img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDlmczZqdWgxNjI1ODA5bWkyNXAyNjRtbiIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19&w=1920&q=75"  title="Surfer Moby Dock " alt="Surfer Mody Dock" width="150px" 
+</span>
+<span>
+<img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbGFqeHF4eTUwNDMzMDhqc3k3bXp1NmlwIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width="150px"
+</span>
+<span>
+<img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width="150px"
+</span>
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -57,8 +71,3 @@ step towards learning -></h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<div>
-<h2> POTD </h2>
-<h3> Geeks for Geeks</h3>
-</div>
-
