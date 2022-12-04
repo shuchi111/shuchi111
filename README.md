@@ -17,16 +17,20 @@ You can click the Preview link to take a look at your changes.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="300"
-<h3> currently pursuing B.Tech in AI & DS .
+img {
+  border-radius: 50%;
+}
+<h3> Currently Pursuing B.Tech in AI & DS .
 step towards learning -></h3>
 <div>
 <h2> Ready? </h2>
-  <img src=" https://res.cloudinary.com/practicaldev/image/fetch/s--TVRhyDFG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif" width="300px"/>
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--TVRhyDFG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif" width="300px"/>
  </img>
 </div>
 <h2> PASSION TO DIVE IN AI </h2>
 <h3>Trying to make myself awesome  -></h3>
-<img src="https://theintercept.imgix.net/wp-uploads/sites/1/2018/03/Intercept_FB_3-1521757151.gif"width="300px"/>
+<img src=![MoveTrendingGIF](https://user-images.githubusercontent.com/107612618/205476973-82d0b580-8c93-4e4a-ba1b-fec78a725bbe.gif)
+"https://theintercept.imgix.net/wp-uploads/sites/1/2018/03/Intercept_FB_3-1521757151.gif"width="300px"/>
 
 
 
@@ -52,5 +56,9 @@ step towards learning -></h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+<div>
+<h2> POTD </h2>
+<h3> Geeks for Geeks</h3>
 </div>
 
