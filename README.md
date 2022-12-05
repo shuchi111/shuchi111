@@ -37,7 +37,7 @@ step towards learning -></h3>
 - :seedling: TECH -WORLD.
 - :zap: Exploring technology
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shuchi-shukla-2b0368215)
-
+ 
 
 <div class="row"> 
 <div class="row ">
