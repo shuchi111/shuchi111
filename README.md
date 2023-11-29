@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **https://join.womentech.net/share/I9O-Qlf8NGifiton?utm_source=manual** [ Women tech Global Network ]
 
-- ⚡ Fun fact:  I love to write quotes, craft beautiful imaginations with painting and ironically, I also love to sleep🤣.
+- ⚡ Fun fact: I love to write quotes, craft beautiful imaginations with painting and ironically, I also love to sleep🤣.
 
 
 
