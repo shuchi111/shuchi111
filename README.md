@@ -9,9 +9,8 @@
 - 🎓I'm an undergraduate 3rd year B.Tech Student majoring in Artificial Intelligence & Data Science in Chandigarh.
 - 💡Throughout my academic journey, I've built a few projects, showcasing my proficiency in Frontend web development and Machine Learning. I am also practicing data structures and algorithms (C++ and Python).
 
-- 🔭 I’m currently working on **Machine Learning Research Project- Recommender System**
 - 🌱 I’m currently learning **Machine Learning with web implementation**
-- 👯 I'm actively seeking collaboration on **my research project.**
+- 👯 I'm actively seeking collaboration on **my research project-Recommender System using ML**
 - 🤝 I’m looking for help with **Period Tracking Project in features and implementation.**
 - ✨In addition to my technical pursuits, I have been the LinkedIn Program creator 2023.
 - 💻 I'm deeply passionate about coding and thrive on new experiences, meeting new people, and learning new things. 
@@ -22,7 +21,7 @@
 
 - 📫 How to reach me **https://join.womentech.net/share/I9O-Qlf8NGifiton?utm_source=manual** [ Women tech Global Network ]
 
-- ⚡ Fun fact: ** I love to write quotes, craft beautiful imaginations with painting and ironically, I also love to sleep🤣.
+- ⚡ Fun fact:  I love to write quotes, craft beautiful imaginations with painting and ironically, I also love to sleep🤣.
 
 
 
