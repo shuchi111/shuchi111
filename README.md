@@ -6,21 +6,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuchi111&label=Profile%20views&color=0e75b6&style=flat" alt="shuchi111" /> </p>
 
+- 🎓I'm an undergraduate 3rd year B.Tech Student majoring in Artificial Intelligence & Data Science in Chandigarh.
+- 💡Throughout my academic journey, I've built a few projects, showcasing my proficiency in Frontend web development and Machine Learning. I am also practicing data structures and algorithms (C++ and Python).
+
 - 🔭 I’m currently working on **Machine Learning Research Project- Recommender System**
-
 - 🌱 I’m currently learning **Machine Learning with web implementation**
-
-- 👯 I am actively seeking collaboration on **my research project.**
-
-- 🤝 I’m looking for help with **Period Tracking Project in features and implamentation.**
+- 👯 I'm actively seeking collaboration on **my research project.**
+- 🤝 I’m looking for help with **Period Tracking Project in features and implementation.**
+- ✨In addition to my technical pursuits, I have been the LinkedIn Program creator 2023.
+- 💻 I'm deeply passionate about coding and thrive on new experiences, meeting new people, and learning new things. 
 
 - 👨‍💻 All of my projects are available at [https://github.com/shuchi111](https://github.com/shuchi111)
 
 - 📝 I write articles on [https://medium.com/@shuchi0_0](https://medium.com/@shuchi0_0)
 
-- 📫 How to reach me **https://join.womentech.net/share/I9O-Qlf8NGifiton?utm_source=manual**
+- 📫 How to reach me **https://join.womentech.net/share/I9O-Qlf8NGifiton?utm_source=manual** [ Women tech Global Network ]
 
-- ⚡ Fun fact **I love to write Quotes and craft beautiful imagination with painting**
+- ⚡ Fun fact: ** I love to write quotes, craft beautiful imaginations with painting and ironically, I also love to sleep🤣.
+
+
 
  #
 
