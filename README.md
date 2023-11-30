@@ -10,8 +10,8 @@
 - 💡Throughout my academic journey, I've built a few projects, showcasing my proficiency in Frontend web development and Machine Learning. I am also practicing data structures and algorithms (C++ and Python).
 
 - 🌱 I’m currently learning **Machine Learning with web implementation**
+- ☑  In Loop: **Javascript.**
 - 👯 I'm actively seeking collaboration on **my research project-Recommender System using ML**
-- 🤝 I’m looking for help with **Period Tracking Project in features and implementation.**
 - ✨In addition to my technical pursuits, I have been the LinkedIn Program creator 2023.
 - 💻 I'm deeply passionate about coding and thrive on new experiences, meeting new people, and learning new things. 
 
