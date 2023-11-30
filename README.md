@@ -15,8 +15,6 @@
 - ✨In addition to my technical pursuits, I have been the LinkedIn Program creator 2023.
 - 💻 I'm deeply passionate about coding and thrive on new experiences, meeting new people, and learning new things. 
 
-- 👨‍💻 All of my projects are available at [https://github.com/shuchi111](https://github.com/shuchi111)
-
 - 📝 I write articles on [https://medium.com/@shuchi0_0](https://medium.com/@shuchi0_0)
 
 - 📫 How to reach me **https://join.womentech.net/share/I9O-Qlf8NGifiton?utm_source=manual** [ Women tech Global Network ]
