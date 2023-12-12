@@ -7,8 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuchi111&label=Profile%20views&color=0e75b6&style=flat" alt="shuchi111" /> </p>
 
 - 🎓I'm an undergraduate 3rd year B.Tech Student majoring in Artificial Intelligence & Data Science.
-- 💡Throughout my academic journey, I've built a few projects, showcasing my proficiency in Frontend web development and Machine Learning. I am also practicing data structures and algorithms (C++ and Python).
-
+- 💡In my academic journey, I've built a few projects, showcasing my proficiency in Frontend web development and Machine Learning. I am also practicing data structures and algorithms (C++ and Python).
 - 🌱 I’m currently learning **Machine Learning with web implementation**
 - ☑  In Loop: **Javascript.**
 - 🌐 Exploration: Web Technology.
