@@ -6,18 +6,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuchi111&label=Profile%20views&color=0e75b6&style=flat" alt="shuchi111" /> </p>
 
-- 🎓I'm an undergraduate 3rd year B.Tech Student majoring in Artificial Intelligence & Data Science in Chandigarh.
+- 🎓I'm an undergraduate 3rd year B.Tech Student majoring in Artificial Intelligence & Data Science.
 - 💡Throughout my academic journey, I've built a few projects, showcasing my proficiency in Frontend web development and Machine Learning. I am also practicing data structures and algorithms (C++ and Python).
 
 - 🌱 I’m currently learning **Machine Learning with web implementation**
 - ☑  In Loop: **Javascript.**
+- 🌐 Exploration: Web Technology.
 - 👯 I'm actively seeking collaboration on **my research project-Recommender System using ML**
 - ✨In addition to my technical pursuits, I have been the LinkedIn Program creator 2023.
 - 💻 I'm deeply passionate about coding and thrive on new experiences, meeting new people, and learning new things. 
 
-- 📝 I write articles on [https://medium.com/@shuchi0_0](https://medium.com/@shuchi0_0)
+- 📝 I write articles on [medium](https://medium.com/@shuchi0_0)
 
-- 📫 How to reach me **https://join.womentech.net/share/I9O-Qlf8NGifiton?utm_source=manual** [ Women tech Global Network ]
+- 📫 How to reach me **[ Global WomenTech Network ](https://join.womentech.net/share/I9O-Qlf8NGifiton?utm_source=manual)** 
 
 - ⚡ Fun fact: I love to write quotes, craft beautiful imaginations with painting and ironically, I also love to sleep🤣.
 
