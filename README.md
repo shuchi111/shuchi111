@@ -10,9 +10,10 @@
 - 💡In my academic journey, I've built a few projects, showcasing my proficiency in Frontend web development and Machine Learning. I am also practicing data structures and algorithms (C++ and Python).
 - 🌱 I’m currently learning **Machine Learning with web implementation**
 - ☑  In Loop: **Javascript.**
+- 💻 Achievements:Secured Rank-1 in the Solving for India Hackathon Institute round, which was a team hackathon, and was selected for the regional round,  MongoDB trivia challenge winner.
 - 👯 I'm actively seeking collaboration on **my research project-Recommender System using ML** 
 - ✨In addition to my technical pursuits, I have been the LinkedIn Program creator 2023.
-- 💻 I'm deeply passionate about coding and thrive on new experiences, meeting new people, and learning new things. 
+-  I'm deeply passionate about coding and thrive on new experiences, meeting new people, and learning new things. 
 
 - 📝 I write articles on [medium](https://medium.com/@shuchi0_0)
 
