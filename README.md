@@ -10,7 +10,7 @@
 - 💡In my academic journey, I've built a few projects, showcasing my proficiency in Frontend web development and Machine Learning. I am also practicing data structures and algorithms (C++ and Python).
 - 🌱 I’m currently learning **Machine Learning with web implementation**
 - ☑  In Loop: **Javascript.**
-- 💻 Achievements:Secured Rank-1 in the Solving for India Hackathon Institute round, which was a team hackathon, and was selected for the regional round,  MongoDB trivia challenge winner.
+- 💻 Achievements: Secured Rank-1 in the Solving for India Hackathon Institute round, which was a team hackathon, and was selected for the regional round,  [MongoDB trivia challenge winner](https://www.linkedin.com/posts/shuchi-shukla_winning-winning-mongodbswag-activity-7131269317450485761-RtEz?utm_source=share&utm_medium=member_desktop),[CGCJ hackathon- Rank1](https://www.linkedin.com/posts/shuchi-shukla_cgcj-cgcjhackathon-winners-activity-7057741103516549121-u6Ip?utm_source=share&utm_medium=member_desktop)
 - 👯 I'm actively seeking collaboration on **my research project-Recommender System using ML** 
 - ✨In addition to my technical pursuits, I have been the LinkedIn Program creator 2023.
 -  I'm deeply passionate about coding and thrive on new experiences, meeting new people, and learning new things. 
