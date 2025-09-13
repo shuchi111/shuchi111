@@ -1,50 +1,77 @@
+<h1 align="center"> Shuchi Shukla </h1>
 
-<h1 align="center">Hey ! 👋 I'm Shuchi Shukla </h1>
-<h3 align="center">A passionate Tech Learner</h3>
-
-![shuchi intro](https://github.com/shuchi111/shuchi111/assets/107612618/23ddbfe6-7a9a-4c4e-a26d-0870e31f081a)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shuchi111&label=Profile%20views&color=0e75b6&style=flat" alt="shuchi111" /> </p>
-
-- 🎓I'm an undergraduate final year B.Tech Student majoring in Artificial Intelligence & Data Science.
-- 💡In my academic journey, I've built a few projects, showcasing my proficiency in Frontend web development and Machine Learning. I am also practicing data structures and algorithms (C++ and Python).
-- 🌱 I’m currently learning **Machine Learning with web implementation**
-- ☑  In Loop: **Javascript.**
-- 💻 Achievements: Secured Rank-1 in the Solving for India Hackathon Institute round, which was a team hackathon, and was selected for the regional round,  [MongoDB trivia challenge winner](https://www.linkedin.com/posts/shuchi-shukla_winning-winning-mongodbswag-activity-7131269317450485761-RtEz?utm_source=share&utm_medium=member_desktop),[CGCJ hackathon- Rank1](https://www.linkedin.com/posts/shuchi-shukla_cgcj-cgcjhackathon-winners-activity-7057741103516549121-u6Ip?utm_source=share&utm_medium=member_desktop)
-- 👯 I'm actively seeking collaboration on **my research project-Recommender System using ML** 
-- ✨In addition to my technical pursuits, I have been the LinkedIn Program creator 2023.
--  I'm deeply passionate about coding and thrive on new experiences, meeting new people, and learning new things. 
-
-- 📝 I write articles on [medium](https://medium.com/@shuchi0_0)
-
-- 📫 How to reach me **[ Global WomenTech Network ](https://join.womentech.net/share/I9O-Qlf8NGifiton?utm_source=manual)** 
-
-- ⚡ Fun fact: I love to write quotes, craft beautiful imaginations with painting and ironically, I also love to sleep🤣.
-
-
-
- #
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/shuchi111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shuchi111" height="30" width="40" /></a>
-<a href="https://twitter.com/shuchi_0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shuchi_0_0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shuchi-shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shuchi-shukla" height="30" width="40" /></a>
-<a href="https://kaggle.com/shuchi111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shuchi111" height="30" width="40" /></a>
-<a href="https://instagram.com/shuchi_0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shuchi_0_0" height="30" width="40" /></a>
-<a href="https://medium.com/@shuchi_0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shuchi_0_0" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shuchi111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shuchi111" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shuchi111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shuchi111" height="30" width="40" /></a>
+<!-- Animated Typing Title -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=000080&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Tech+Explorer;Generative+AI+%7C+Machine+Learning;Open+Source+Contributor;Data+Science+%7C+Innovation" alt="Typing SVG" />
+  </a>
+</p>
+<!-- Full-width Banner -->
+<p align="center">
+  <img src="https://github.com/shuchi111/shuchi111/assets/107612618/23ddbfe6-7a9a-4c4e-a26d-0870e31f081a" 
+       alt="shuchi intro" width="100%" />
 </p>
 
-#
-<h3 align="left">Languages and Tools:</h3>
- </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"
+<!-- Profile Views on left with no extra space -->
+<p align="left" style="margin-top:-10px; margin-bottom:-10px;"> 
+  <img src="https://komarev.com/ghpvc/?username=shuchi111&label=Profile%20views&color=0e75b6&style=flat" alt="shuchi111" /> 
+</p>
 
-#
+---
+- 🎓 Final-year B.Tech student in Artificial Intelligence & Data Science (SGPA: 8.74)  
+- 💡 AI Engineer with experience in **LLMs, Agentic Workflows, ML, and Data Analytics**  
+- 🔭 Currently working on **multi-agent systems & AI-powered automation**  
+- 🌱 Exploring **Generative AI, Vector Databases (Pinecone, ChromaDB), and RAG systems**  
+- 👯 Open to collaboration on **AI/ML research, data-driven projects, and intelligent systems**  
+- 🏆 Achievements: Rank-1 Solving for India Hackathon (Institute Round), MongoDB Trivia Challenge Winner, CGCJ Hackathon Winner  
+- ✨ Active member of **Google Women Techmakers (WTM)** and **GHCI Scholar 2024**  
+- 🚀 Passionate about solving real-world problems with AI, innovation, and data-driven insights  
+
+---
+### 🏆 Achievements
+- 🥇 **Rank-1 – Solving for India Hackathon (Institute Round)** – selected for Regional Round.  
+- 🥇 **1st Rank – CGCJ Hackathon** (₹20,000 cash prize).  
+- 🏆 **MongoDB Trivia Challenge Winner**.  
+- 🌟 **GHCI Scholar 2024** (AnitaB.org).  
+- 👩‍💻 **Google Women Techmakers – Active Member**.  
+- 📢 **LinkedIn Program Creator 2023**.  
+
+---
+
+### 🔨 Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="40" height="40"/> <!-- HuggingFace -->
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuchi111&show_icons=true&locale=en&layout=compact" alt="shuchi111" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuchi111&show_icons=true&locale=en" alt="shuchi111" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuchi111&" alt="shuchi111" /></p>
+---
 
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/shuchi-shukla" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://twitter.com/shuchi_0_0" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://kaggle.com/shuchi111" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
+<a href="https://medium.com/@shuchi0_0" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shuchi111" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shuchi111" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
+</p>
+
+---
+
+⚡ **Fun fact**: I love to write quotes, craft imaginations with painting 🎨, and ironically, I also love to sleep 🤣.
