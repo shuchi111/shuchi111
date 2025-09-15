@@ -22,9 +22,7 @@
 - 💡 AI Engineer with experience in **LLMs, Agentic Workflows, ML, and Data Analytics**  
 - 🔭 Currently working on **multi-agent systems & AI-powered automation**  
 - 🌱 Exploring **Generative AI, Vector Databases (Pinecone, ChromaDB), and RAG systems**  
-- 👯 Open to collaboration on **AI/ML research, data-driven projects, and intelligent systems**  
-- 🏆 Achievements: Rank-1 Solving for India Hackathon (Institute Round), MongoDB Trivia Challenge Winner, CGCJ Hackathon Winner  
-- ✨ Active member of **Google Women Techmakers (WTM)** and **GHCI Scholar 2024**  
+- 👯 Open to collaboration on **AI/ML research, data-driven projects, and intelligent systems**   
 - 🚀 Passionate about solving real-world problems with AI, innovation, and data-driven insights  
 
 ---
