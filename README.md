@@ -1,28 +1,21 @@
-<h1 align="center"> Shuchi Shukla </h1>
-
 <!-- Animated Typing Title -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=000080&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Tech+Explorer;Generative+AI+%7C+Machine+Learning;Open+Source+Contributor;Data+Science+%7C+Innovation" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shuchi+Shukla" 
+      alt="Typing Animation"
+    />
   </a>
-</p>
-<!-- Full-width Banner -->
-<p align="center">
-  <img src="https://github.com/shuchi111/shuchi111/assets/107612618/23ddbfe6-7a9a-4c4e-a26d-0870e31f081a" 
-       alt="shuchi intro" width="100%" />
-</p>
-
-<!-- Profile Views on left with no extra space -->
-<p align="left" style="margin-top:-10px; margin-bottom:-10px;"> 
-  <img src="https://komarev.com/ghpvc/?username=shuchi111&label=Profile%20views&color=0e75b6&style=flat" alt="shuchi111" /> 
 </p>
 
 ---
-- 🎓 Final-year B.Tech student in Artificial Intelligence & Data Science (SGPA: 8.74)  
+
 - 💡 AI Engineer with experience in **LLMs, Agentic Workflows, ML, and Data Analytics**  
 - 🔭 Currently working on **multi-agent systems & AI-powered automation**  
 - 🌱 Exploring **Generative AI, Vector Databases (Pinecone, ChromaDB), and RAG systems**  
-- 👯 Open to collaboration on **AI/ML research, data-driven projects, and intelligent systems**   
+- 👯 Open to collaboration on **AI/ML research, data-driven projects, and intelligent systems**
+- 🎓 **Academics** : B.Tech in **Artificial Intelligence & Data Science**  (GPA: 8.6 / 10)
+  
 - 🚀 Passionate about solving real-world problems with AI, innovation, and data-driven insights  
 
 ---
